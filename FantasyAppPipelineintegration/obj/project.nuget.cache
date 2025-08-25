@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vYiT4mXb8g8=",
+  "success": true,
+  "projectFilePath": "D:\\Docker Training\\FantasyAppPipelineintegration_\\FantasyAppPipelineintegration\\FantasyAppPipelineintegration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajesh.v\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
