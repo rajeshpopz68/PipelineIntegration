@@ -31,3 +31,4 @@ D:\Docker Training\FantasyAppPipelineintegration_\FantasyAppPipelineintegration\
 D:\Docker Training\FantasyAppPipelineintegration_\FantasyAppPipelineintegration\obj\Debug\net8.0\FantasyAppPipelineintegration.pdb
 D:\Docker Training\FantasyAppPipelineintegration_\FantasyAppPipelineintegration\obj\Debug\net8.0\FantasyAppPipelineintegration.genruntimeconfig.cache
 D:\Docker Training\FantasyAppPipelineintegration_\FantasyAppPipelineintegration\obj\Debug\net8.0\ref\FantasyAppPipelineintegration.dll
+D:\Docker Training\FantasyAppPipelineintegration_\FantasyAppPipelineintegration\obj\Debug\net8.0\FantasyAppPipelineintegration.sourcelink.json

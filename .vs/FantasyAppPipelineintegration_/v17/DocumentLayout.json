@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Docker Training\\FantasyAppPipelineintegration_\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0FB832F2-CB6D-4480-9CB5-22F1C18CA9EB}|NUnittesting\\NUnittesting.csproj|d:\\docker training\\fantasyapppipelineintegration_\\nunittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB832F2-CB6D-4480-9CB5-22F1C18CA9EB}|NUnittesting\\NUnittesting.csproj|solutionrelative:nunittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9D5568-42B9-4761-9451-A1E0E7518EDE}|FantasyAppPipelineintegration\\FantasyAppPipelineintegration.csproj|d:\\docker training\\fantasyapppipelineintegration_\\fantasyapppipelineintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9D5568-42B9-4761-9451-A1E0E7518EDE}|FantasyAppPipelineintegration\\FantasyAppPipelineintegration.csproj|solutionrelative:fantasyapppipelineintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB9D5568-42B9-4761-9451-A1E0E7518EDE}|FantasyAppPipelineintegration\\FantasyAppPipelineintegration.csproj|d:\\docker training\\fantasyapppipelineintegration_\\fantasyapppipelineintegration\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB9D5568-42B9-4761-9451-A1E0E7518EDE}|FantasyAppPipelineintegration\\FantasyAppPipelineintegration.csproj|solutionrelative:fantasyapppipelineintegration\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +34,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Docker Training\\FantasyAppPipelineintegration_\\FantasyAppPipelineintegration\\Program.cs",
+              "RelativeDocumentMoniker": "FantasyAppPipelineintegration\\Program.cs",
+              "ToolTip": "D:\\Docker Training\\FantasyAppPipelineintegration_\\FantasyAppPipelineintegration\\Program.cs",
+              "RelativeToolTip": "FantasyAppPipelineintegration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:25:41.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Docker Training\\FantasyAppPipelineintegration_\\NUnittesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NUnittesting\\UnitTest1.cs",
+              "ToolTip": "D:\\Docker Training\\FantasyAppPipelineintegration_\\NUnittesting\\UnitTest1.cs",
+              "RelativeToolTip": "NUnittesting\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:23:33.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Docker Training\\FantasyAppPipelineintegration_\\FantasyAppPipelineintegration\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "FantasyAppPipelineintegration\\Pages\\Index.cshtml",

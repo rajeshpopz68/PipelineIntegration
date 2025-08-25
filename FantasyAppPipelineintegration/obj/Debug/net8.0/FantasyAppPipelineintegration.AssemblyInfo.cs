@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FantasyAppPipelineintegration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a11202002192893cf79358462cb285075930e2d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("FantasyAppPipelineintegration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FantasyAppPipelineintegration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
