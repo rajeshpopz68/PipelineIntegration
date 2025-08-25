@@ -1,0 +1,6 @@
+projectKey=CICD
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=CICD
+ceTaskId=c41a38f2-b7cd-4afd-82b0-e8f0c268b782
+ceTaskUrl=http://localhost:9000/api/ce/task?id=c41a38f2-b7cd-4afd-82b0-e8f0c268b782

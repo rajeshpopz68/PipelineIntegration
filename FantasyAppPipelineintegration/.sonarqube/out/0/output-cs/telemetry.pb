@@ -1,0 +1,1 @@
+ŠRtD:\Docker Training\FantasyAppPipelineintegration_\FantasyAppPipelineintegration\FantasyAppPipelineintegration.csproj¢net8.0òCSharp12
